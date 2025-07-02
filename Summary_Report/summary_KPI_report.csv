@@ -1,0 +1,6 @@
+Category,Records,Stockout_Days,Avg_Stock_Level,Avg_Inventory_Age,Stockout_Rate_Pct
+Clothing,5005,334,168.3,1.5,6.67
+Toys,1365,87,141.8,1.7,6.37
+Electronics,3640,208,137.3,1.7,5.71
+Furniture,2730,148,141.1,1.6,5.42
+Groceries,910,46,140.8,1.6,5.05
